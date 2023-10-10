@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my personal Github repository!
+
+Next Realm AI research lab base in New York City 👋
 
 <!--
 **tombustamante/tombustamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
