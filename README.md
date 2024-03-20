@@ -1,14 +1,14 @@
 ### Welcome to my personal Github repository!
 
-Next Realm AI research lab base in New York City 👋
+I am the Founder & CEO of Next Realm AI, and artificial intelliegence research lab base in New York City 👋
 
 <!--
 **tombustamante/tombustamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Areas of Interest:
 
-- 🔭 AI research lab in New York City
-- 🌱 Quantum Computing research lab in New York City
-- 👯 Cybersecurity command center in Manhattan
+- 🔭 Large Language Model development
+- 🌱 Quantum Computing Research
+- 👯 CyBusiness Applications
 
 -->
